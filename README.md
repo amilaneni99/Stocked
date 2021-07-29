@@ -20,3 +20,5 @@ Stocked is a Full Stack Web Application developed for the Capstone Project to co
 
 ### Demo
 [Stocked](https://stockexchangeui.herokuapp.com/)
+Admin Username: admin@stockexchangeapp.com
+Admin Password: password
